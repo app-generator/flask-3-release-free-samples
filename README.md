@@ -1,4 +1,4 @@
-# Flask 3 Release `Free Samples` 
+# [Flask 3 Release Free Samples](https://blog.appseed.us/flask-3-release-and-free-samples/)
 
 As [announced](https://flask.palletsprojects.com/en/3.0.x/) on the official **Flask** site, the [Flask 3.x Release](https://flask.palletsprojects.com/en/3.0.x/changes/) is out. For newcomers, Flask is a lightweight WSGI web application framework. It is designed to make getting started quick and easy, with the ability to scale up to complex applications. 
 
@@ -108,4 +108,4 @@ While Flask is minimalistic by design, it has a strong and active community that
 Overall, Flask is a popular choice for developers who want to quickly build web applications in Python with a focus on simplicity and flexibility.
 
 --- 
-Flask 3 Release - Open-Source and Free samples provided by AppSeed. 
+[Flask 3 Release Free Samples](https://blog.appseed.us/flask-3-release-and-free-samples/) - Open-Source and Free samples provided by AppSeed. 
